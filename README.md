@@ -1,4 +1,4 @@
-# Ecommerce_Sales_Dashboard_PowerBI
+# Ecommerce-Sales-Dashboard-PowerBI
 
 ![dashboard screenshot](https://github.com/Shreyas-028/Ecommerce-Sales-Power-BI-Dashboard/blob/main/image.png)
 
